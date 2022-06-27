@@ -18,6 +18,7 @@ All you need to do is download and open the zip file, and then extract the war f
 Then point your browser at (for example) http://localhost:8080/bodgeit
 
 You may find it easier to find vulnerabilities using a pen test tool.
+test1
 
 If you dont have a favourite one, I'd recommend the [Zed Attack Proxy](https://www.owasp.org/index.php/ZAP) (for which I'm the project lead).
 
